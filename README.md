@@ -1,5 +1,5 @@
 - 👨 Hi, I’m Sandesh
-- ✌️   I’m interested in ☁️ cloud technology and 🖥️ software development
+- ✌️  I’m interested in ☁️ cloud technology and 🖥️ software development
 - 🌱 I’m currently learning AWS
 - 💻 I like to code
 - 📫 You can email me at sandeshdha26@gmail.com
